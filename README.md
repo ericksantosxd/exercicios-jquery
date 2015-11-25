@@ -1,0 +1,2 @@
+# exercicios-jquery
+meus exercicios
